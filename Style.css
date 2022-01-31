@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
